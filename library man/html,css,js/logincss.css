@@ -1,0 +1,19 @@
+body
+{
+	background-image: url('login.jpg');
+	background-color: wheat;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+div
+{
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
